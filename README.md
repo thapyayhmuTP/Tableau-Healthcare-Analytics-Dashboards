@@ -61,10 +61,10 @@ It demonstrates the progression from **exploratory data visualization** to **int
 ---
 
 ## Datasets
-[`HospInfo.csv`](data/HospInfo.csv) | Original dataset from [CMS Hospital General Information](https://www.kaggle.com/datasets/cms/hospital-general-information) |
-[`Cleaned_HospInfo.xlsx`](data/Cleaned_HospInfo.xlsx) | Standardized dataset used for Tableau dashboards |
-[`synthetic_staffing.csv`](data/synthetic_staffing.csv) | Synthetic time-series dataset for staffing and forecasting analysis |
-[`Data_Cleaning.tflx`](data/Data_Cleaning.tflx) | Tableau Prep flow used for preprocessing and cleaning |
+- [`HospInfo.csv`](data/HospInfo.csv) | Original dataset from [CMS Hospital General Information](https://www.kaggle.com/datasets/cms/hospital-general-information)
+- [`Cleaned_HospInfo.xlsx`](data/Cleaned_HospInfo.xlsx) | Standardized dataset used for Tableau dashboards |
+- [`synthetic_staffing.csv`](data/synthetic_staffing.csv) | Synthetic time-series dataset for staffing and forecasting analysis |
+- [`Data_Cleaning.tflx`](data/Data_Cleaning.tflx) | Tableau Prep flow used for preprocessing and cleaning |
 
 ---
 
